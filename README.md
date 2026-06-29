@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi, I'm Elizabeth✨✨
 
-<!--
-**Elizabeth-Ngatho/Elizabeth-Ngatho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 My toolkit includes:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🐍 Python & Django
+* 📱 Kotlin & Android Development
+* ☕ Java
+* 🌐 HTML • CSS • JavaScript • Bootstrap
+* 💳 M-Pesa Daraja API Integration
+* 🗄️ MySQL
+* 🔀 Git & GitHub
+* 🛠️ REST API Integration
