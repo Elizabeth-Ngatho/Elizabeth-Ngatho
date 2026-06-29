@@ -1,5 +1,11 @@
 ## Hi, I'm Elizabeth✨✨
 
+
+I’m a software developer passionate about transforming ideas into practical digital solutions. Whether it’s developing full-stack web applications, building native Android apps, or integrating secure payment systems, I enjoy creating software that is both functional and impactful.<br/>
+
+
+⚡ Always learning. Always building. Always creating.<br/>
+
 🚀 My toolkit includes:<br/>
 <br/>
 * 🐍 Python & Django<br/>
